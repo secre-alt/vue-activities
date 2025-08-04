@@ -3,12 +3,12 @@ import { ref } from 'vue';
 
 const message = ref('Task');
 const newTask = ref('');
-const tasks = ref<string[]>([]); // Store the list of tasks
+const tasks = ref<string[]>([]); 
 
 function formSubmitted() {
   if (newTask.value.trim() !== '') {
     tasks.value.push(newTask.value.trim());
-    newTask.value = ''; // Clear input
+    newTask.value = ''; 
   }
 }
 </script>
@@ -17,7 +17,7 @@ function formSubmitted() {
   <main>
     <h1>{{ message }}</h1>
 
-    <!-- Task Form -->
+   
     <form @submit.prevent="formSubmitted">
       <label>
         New Task
@@ -42,10 +42,10 @@ main {
   max-width: 400px;
   margin: 2rem auto;
   padding: 1.5rem;
-  background-color: #ffffff; /* White card background */
+  background-color: #ffffff; 
   border-radius: 10px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
-  color: #222; /* Darker text color */
+  color: #222;
   
 }
 
@@ -68,7 +68,7 @@ input {
   border: 1px solid #ccc;
   border-radius: 6px;
   background-color: #f5f5f5;
-  color: #000; /* Ensure input text is visible */
+  color: #000;
 }
 
 .button-container {
