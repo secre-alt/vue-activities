@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import { ref } from 'vue';
 
-const message = ref('Task');
+const message = ref('To-do List');
 const newTask = ref('');
 const tasks = ref<string[]>([]); 
 
@@ -20,7 +20,7 @@ function formSubmitted() {
    
     <form @submit.prevent="formSubmitted">
       <label>
-        New Task
+       
         <input v-model="newTask" name="newTask" placeholder="Enter task" />
       </label>
       <div class="button-container">
@@ -46,19 +46,22 @@ main {
   border-radius: 10px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
   color: #222;
-  
+ 
 }
 
 h1 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
   color: #222;
+  text-align: center;
 }
 
 label {
   display: block;
   margin-bottom: 0.5rem;
   color: #333;
+  justify-content: center;
+  align-items: center;
 }
 
 input {
@@ -100,6 +103,6 @@ button:hover {
 
 .task-list li {
   margin-bottom: 0.5rem;
-  color: #222; /* Darker task text */
+  color: #222; 
 }
 </style>
