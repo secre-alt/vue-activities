@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 import { ref } from 'vue';
 
-const message = ref('To-do List');
+const message = ref('To Do List');
 const newTask = ref('');
 const tasks = ref<string[]>([]); 
 
