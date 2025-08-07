@@ -11,6 +11,7 @@ function formSubmitted() {
     newTask.value = ''; 
   }
 }
+
 </script>
 
 <template>
@@ -50,7 +51,7 @@ main {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   margin-bottom: 1rem;
   color: #222;
   text-align: center;
