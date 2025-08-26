@@ -1,4 +1,5 @@
 # Act-3-Vuejs_Axios
+<<<<<<< HEAD
 
 A simple Vue 3 project that demonstrates fetching and displaying data using **Axios** from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/).
 
