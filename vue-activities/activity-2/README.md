@@ -32,3 +32,8 @@ A simple Vue 3 project that demonstrates creating, editing, completing, and dele
 
 ## ScreenShot
 ![Dashboard Preview](TodoList.png)
+
+
+## Tech Stack
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
