@@ -3,15 +3,10 @@
 A simple Vue 3 project that demonstrates creating, editing, completing, and deleting tasks in a To Do List application.
 
 ## Features
-
 - ➕ Add new tasks
-
 - 📝 Edit existing tasks
-
 - ✅ Mark tasks as completed
-
 - 🗑️ Delete tasks
-
 - 📊 Track progress of completed vs. active tasks
 
 ## Installation & Setup
