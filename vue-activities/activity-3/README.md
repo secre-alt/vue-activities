@@ -13,8 +13,8 @@ A simple Vue 3 project that demonstrates fetching and displaying data using **Ax
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/secre-alt/Act-3-Vuejs_Axios.git
-   cd Act-3-Vuejs_Axios
+   git clone https://github.com/secre-alt/vue-activities.git
+   cd activity-3/PostList
 
 2. Install dependencies:
     ```bash
