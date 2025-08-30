@@ -4,15 +4,15 @@ A simple Vue 3 project that demonstrates creating, editing, completing, and dele
 
 ## Features
 
-➕ Add new tasks
+- ➕ Add new tasks
 
-📝 Edit existing tasks
+- 📝 Edit existing tasks
 
-✅ Mark tasks as completed
+- ✅ Mark tasks as completed
 
-🗑️ Delete tasks
+- 🗑️ Delete tasks
 
-📊 Track progress of completed vs. active tasks
+- 📊 Track progress of completed vs. active tasks
 
 ## Installation & Setup
 1. Clone the repository:
