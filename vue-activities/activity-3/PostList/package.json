@@ -1,9 +1,9 @@
 {
-<<<<<<<< HEAD:Act-1-Vuejs_Task/Task/package.json
+
   "name": "task",
-========
+
   "name": "act-3-vuejscrud",
->>>>>>>> 4d22582a347e0e185022c159961c3eb2eab578c7:PostList/package.json
+
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -21,11 +21,11 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
-<<<<<<<< HEAD:Act-1-Vuejs_Task/Task/package.json
+
     "vite": "^7.0.6",
-========
+
     "vite": "^7.1.3",
->>>>>>>> 4d22582a347e0e185022c159961c3eb2eab578c7:PostList/package.json
+
     "vite-plugin-vue-devtools": "^8.0.0"
   }
 }
