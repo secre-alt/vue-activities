@@ -1,4 +1,4 @@
-## Act-2-Vuejs_ToDoList
+## Act-2-Vuejscrud To-Do List
 
 A simple Vue 3 project that demonstrates creating, editing, completing, and deleting tasks in a To Do List application.
 
