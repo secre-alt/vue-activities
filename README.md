@@ -19,7 +19,13 @@ This repository showcases my learning progress with Vue, covering basic to advan
 - [Vue.js 3](https://vuejs.org/)  
 - [Axios](https://axios-http.com/) (for API requests)  
 - HTML5, CSS3, JavaScript (ES6+)  
+## ✨ Author
+\`\`\`markdown
+[**Eldren Dela Cruz**](https://www.linkedin.com/in/eldren-dela-cruz-8a0858335/)  
+- [GitHub Profile](https://github.com/secre-alt)  
+\`\`\`
 
+📌 This repository is for educational purposes — documenting my journey in learning Vue.js.
 ## 💡 Usage
 Clone the repo:
 ```bash
@@ -28,10 +34,4 @@ cd vue-activities
 npm install
 npm run dev
 
-## ✨ Author
-\`\`\`markdown
-[**Eldren Dela Cruz**](https://www.linkedin.com/in/eldren-dela-cruz-8a0858335/)  
-- [GitHub Profile](https://github.com/secre-alt)  
-\`\`\`
 
-📌 This repository is for educational purposes — documenting my journey in learning Vue.js.
