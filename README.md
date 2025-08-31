@@ -28,5 +28,10 @@ cd vue-activities
 npm install
 npm run dev
 
+## ✨ Author
+\`\`\`markdown
+[**Eldren Dela Cruz**](https://www.linkedin.com/in/eldren-dela-cruz-8a0858335/)  
+- [GitHub Profile](https://github.com/secre-alt)  
+\`\`\`
 
 📌 This repository is for educational purposes — documenting my journey in learning Vue.js.
