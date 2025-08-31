@@ -11,7 +11,7 @@ This repository showcases my learning progress with Vue, covering basic to advan
 
 ## 📂 Activities
 - **Activity 1** – Introduction to Vue and basic reactivity  
-- **Activity 2** – Event handling and dynamic rendering  
+- **Activity 2** – Simple To-do List with CRUD 
 - **Activity 3** – Using Axios to fetch and display API data  
 - *(more activities will be added as I continue learning)*  
 
