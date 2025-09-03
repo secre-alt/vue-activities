@@ -633,7 +633,8 @@ const posts = [
   border-radius: 1rem;
   overflow: hidden;
   .header {
-    font-size: 12px;
+    font-size: 20px;
+    font-style: bold;
     background: #0284c7;
     padding: 1rem;
     display: flex;
