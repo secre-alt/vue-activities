@@ -14,6 +14,8 @@ This repository showcases my learning progress with Vue, covering basic to advan
 - **Activity 2** – Simple To-do List with CRUD 
 - **Activity 3** – Using Axios to fetch and display API data 
 - **Activity 4** – Vue.js Composition API  
+- **Activity 5** – Vue v-for Slots & v-slots
+- **Activity 6** – Vue.js V-model 
 - *(more activities will be added as I continue learning)*  
 
 ## 🛠️ Tech Stack
