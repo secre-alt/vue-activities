@@ -36,8 +36,8 @@ This repository showcases my learning progress with Vue, covering basic to advan
 ## 💡 Usage
 Clone the repo:
 ```bash
-git clone https://github.com/secre-alt/vue-activities.git
-cd vue-activities
+git clone https://github.com/secre-alt/vuejs-projects.git
+cd vuejs-projects/vue-activities
 npm install
 npm run dev
 
