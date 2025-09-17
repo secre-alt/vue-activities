@@ -14,6 +14,8 @@ This repository showcases my learning progress with Vue, covering basic to advan
 - **Activity 2** – Simple To-do List with CRUD 
 - **Activity 3** – Using Axios to fetch and display API data 
 - **Activity 4** – Vue.js Composition API  
+- **Activity 5** – Vue v-for Slots & v-slots
+- **Activity 6** – Vue.js V-model 
 - *(more activities will be added as I continue learning)*  
 
 ## 🛠️ Tech Stack
@@ -34,8 +36,8 @@ This repository showcases my learning progress with Vue, covering basic to advan
 ## 💡 Usage
 Clone the repo:
 ```bash
-git clone https://github.com/secre-alt/vue-activities.git
-cd vue-activities
+git clone https://github.com/secre-alt/vuejs-projects.git
+cd vuejs-projects/vue-activities
 npm install
 npm run dev
 
